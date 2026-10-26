@@ -73,7 +73,7 @@ Check the `Done` column to track your progress as files land.
 
 | # | Lesson | Done |
 |---|--------|------|
-| 6.1 | [string, []byte, and []rune](06-strings/01-string-bytes-runes.md) | |
+| 6.1 | [string, []byte, and []rune](06-strings/01-string-bytes-runes.md) | ✅ |
 | 6.2 | [UTF-8, Indexing, and Iteration](06-strings/02-utf8-iteration.md) | ✅ |
 | 6.3 | [The strings Package Reference](06-strings/03-strings-package.md) | ✅ |
 | 6.4 | [strings.Builder, Replacer, and Reader](06-strings/04-builder-replacer.md) | ✅ |
@@ -134,115 +134,115 @@ Check the `Done` column to track your progress as files land.
 | # | Lesson | Done |
 |---|--------|------|
 | 11.1 | [sync.WaitGroup](11-sync-context/01-waitgroup.md) | ✅ |
-| 11.2 | [sync.Mutex and sync.RWMutex](11-sync-context/02-mutex.md) | |
-| 11.3 | [sync.Once, sync.Pool, and sync.Map](11-sync-context/03-once-pool-map.md) | |
-| 11.4 | [sync/atomic](11-sync-context/04-atomic.md) | |
-| 11.5 | [The Race Detector](11-sync-context/05-race-detector.md) | |
-| 11.6 | [context: Cancellation and Timeouts](11-sync-context/06-context-cancel.md) | |
-| 11.7 | [context Values and Propagation](11-sync-context/07-context-values.md) | |
-| 11.8 | [errgroup](11-sync-context/08-errgroup.md) | |
+| 11.2 | [sync.Mutex and sync.RWMutex](11-sync-context/02-mutex.md) | ✅ |
+| 11.3 | [sync.Once, sync.Pool, and sync.Map](11-sync-context/03-once-pool-map.md) | ✅ |
+| 11.4 | [sync/atomic](11-sync-context/04-atomic.md) | ✅ |
+| 11.5 | [The Race Detector](11-sync-context/05-race-detector.md) | ✅ |
+| 11.6 | [context: Cancellation and Timeouts](11-sync-context/06-context-cancel.md) | ✅ |
+| 11.7 | [context Values and Propagation](11-sync-context/07-context-values.md) | ✅ |
+| 11.8 | [errgroup](11-sync-context/08-errgroup.md) | ✅ |
 
 ## Module 12 — Concurrency Patterns
 
 | # | Lesson | Done |
 |---|--------|------|
 | 12.1 | [Worker Pools](12-concurrency-patterns/01-worker-pools.md) | ✅ |
-| 12.2 | [Fan-Out and Fan-In](12-concurrency-patterns/02-fan-out-fan-in.md) | |
-| 12.3 | [Pipelines and Cancellation](12-concurrency-patterns/03-pipelines.md) | |
-| 12.4 | [Rate Limiting and Semaphores](12-concurrency-patterns/04-rate-limiting.md) | |
-| 12.5 | [Deadlocks, Leaks, and How to Spot Them](12-concurrency-patterns/05-deadlocks-leaks.md) | |
-| 12.6 | [The Go Memory Model in Practice](12-concurrency-patterns/06-memory-model.md) | |
+| 12.2 | [Fan-Out and Fan-In](12-concurrency-patterns/02-fan-out-fan-in.md) | ✅ |
+| 12.3 | [Pipelines and Cancellation](12-concurrency-patterns/03-pipelines.md) | ✅ |
+| 12.4 | [Rate Limiting and Semaphores](12-concurrency-patterns/04-rate-limiting.md) | ✅ |
+| 12.5 | [Deadlocks, Leaks, and How to Spot Them](12-concurrency-patterns/05-deadlocks-leaks.md) | ✅ |
+| 12.6 | [The Go Memory Model in Practice](12-concurrency-patterns/06-memory-model.md) | ✅ |
 
 ## Module 13 — Standard Library Tour
 
 | # | Lesson | Done |
 |---|--------|------|
-| 13.1 | [os: Files, Args, and Environment](13-stdlib/01-os.md) | |
-| 13.2 | [io: Reader, Writer, and the Helpers](13-stdlib/02-io.md) | |
-| 13.3 | [bufio: Scanner, Reader, and Writer](13-stdlib/03-bufio.md) | |
-| 13.4 | [time: Durations, Instants, and Formatting](13-stdlib/04-time.md) | |
-| 13.5 | [time: Timers, Tickers, and After](13-stdlib/05-timers.md) | |
-| 13.6 | [encoding/json: Marshal and Unmarshal](13-stdlib/06-json.md) | |
-| 13.7 | [encoding/json: Streaming, Tags, and Custom Marshalers](13-stdlib/07-json-advanced.md) | |
-| 13.8 | [regexp](13-stdlib/08-regexp.md) | |
-| 13.9 | [math, math/big, and math/rand](13-stdlib/09-math-rand.md) | |
-| 13.10 | [path/filepath and io/fs](13-stdlib/10-filepath-fs.md) | |
-| 13.11 | [flag: Command-Line Parsing](13-stdlib/11-flag.md) | |
-| 13.12 | [log/slog: Structured Logging](13-stdlib/12-slog.md) | |
-| 13.13 | [embed: Embedding Files in the Binary](13-stdlib/13-embed.md) | |
-| 13.14 | [iter: Range-over-Func Iterators](13-stdlib/14-iter.md) | |
-| 13.15 | [reflect: The Basics](13-stdlib/15-reflect.md) | |
+| 13.1 | [os: Files, Args, and Environment](13-stdlib/01-os.md) | ✅ |
+| 13.2 | [io: Reader, Writer, and the Helpers](13-stdlib/02-io.md) | ✅ |
+| 13.3 | [bufio: Scanner, Reader, and Writer](13-stdlib/03-bufio.md) | ✅ |
+| 13.4 | [time: Durations, Instants, and Formatting](13-stdlib/04-time.md) | ✅ |
+| 13.5 | [time: Timers, Tickers, and After](13-stdlib/05-timers.md) | ✅ |
+| 13.6 | [encoding/json: Marshal and Unmarshal](13-stdlib/06-json.md) | ✅ |
+| 13.7 | [encoding/json: Streaming, Tags, and Custom Marshalers](13-stdlib/07-json-advanced.md) | ✅ |
+| 13.8 | [regexp](13-stdlib/08-regexp.md) | ✅ |
+| 13.9 | [math, math/big, and math/rand](13-stdlib/09-math-rand.md) | ✅ |
+| 13.10 | [path/filepath and io/fs](13-stdlib/10-filepath-fs.md) | ✅ |
+| 13.11 | [flag: Command-Line Parsing](13-stdlib/11-flag.md) | ✅ |
+| 13.12 | [log/slog: Structured Logging](13-stdlib/12-slog.md) | ✅ |
+| 13.13 | [embed: Embedding Files in the Binary](13-stdlib/13-embed.md) | ✅ |
+| 13.14 | [iter: Range-over-Func Iterators](13-stdlib/14-iter.md) | ✅ |
+| 13.15 | [reflect: The Basics](13-stdlib/15-reflect.md) | ✅ |
 
 ## Module 14 — Testing
 
 | # | Lesson | Done |
 |---|--------|------|
-| 14.1 | [go test and the Basics](14-testing/01-go-test.md) | |
-| 14.2 | [Table-Driven Tests and Subtests](14-testing/02-table-driven.md) | |
-| 14.3 | [Fixtures, Helpers, TestMain, and Cleanup](14-testing/03-fixtures-helpers.md) | |
-| 14.4 | [testify, Briefly](14-testing/04-testify.md) | |
-| 14.5 | [Benchmarks](14-testing/05-benchmarks.md) | |
-| 14.6 | [Fuzzing](14-testing/06-fuzzing.md) | |
-| 14.7 | [Examples as Tests and Coverage](14-testing/07-examples-coverage.md) | |
-| 14.8 | [Test Doubles with Interfaces](14-testing/08-test-doubles.md) | |
+| 14.1 | [go test and the Basics](14-testing/01-go-test.md) | ✅ |
+| 14.2 | [Table-Driven Tests and Subtests](14-testing/02-table-driven.md) | ✅ |
+| 14.3 | [Fixtures, Helpers, TestMain, and Cleanup](14-testing/03-fixtures-helpers.md) | ✅ |
+| 14.4 | [testify, Briefly](14-testing/04-testify.md) | ✅ |
+| 14.5 | [Benchmarks](14-testing/05-benchmarks.md) | ✅ |
+| 14.6 | [Fuzzing](14-testing/06-fuzzing.md) | ✅ |
+| 14.7 | [Examples as Tests and Coverage](14-testing/07-examples-coverage.md) | ✅ |
+| 14.8 | [Test Doubles with Interfaces](14-testing/08-test-doubles.md) | ✅ |
 
 ## Module 15 — Tooling and Builds
 
 | # | Lesson | Done |
 |---|--------|------|
-| 15.1 | [go build, run, install, and the Build Cache](15-tooling/01-build-run-install.md) | |
-| 15.2 | [go mod tidy, vendor, and Dependency Management](15-tooling/02-mod-tidy-vendor.md) | |
-| 15.3 | [go vet, staticcheck, and golangci-lint](15-tooling/03-linters.md) | |
-| 15.4 | [Build Tags and Conditional Compilation](15-tooling/04-build-tags.md) | |
-| 15.5 | [Cross-Compilation and Static Binaries](15-tooling/05-cross-compilation.md) | |
-| 15.6 | [pprof Profiling](15-tooling/06-pprof.md) | |
-| 15.7 | [Delve, Briefly](15-tooling/07-delve.md) | |
-| 15.8 | [go generate and Workspaces](15-tooling/08-generate-workspaces.md) | |
+| 15.1 | [go build, run, install, and the Build Cache](15-tooling/01-build-run-install.md) | ✅ |
+| 15.2 | [go mod tidy, vendor, and Dependency Management](15-tooling/02-mod-tidy-vendor.md) | ✅ |
+| 15.3 | [go vet, staticcheck, and golangci-lint](15-tooling/03-linters.md) | ✅ |
+| 15.4 | [Build Tags and Conditional Compilation](15-tooling/04-build-tags.md) | ✅ |
+| 15.5 | [Cross-Compilation and Static Binaries](15-tooling/05-cross-compilation.md) | ✅ |
+| 15.6 | [pprof Profiling](15-tooling/06-pprof.md) | ✅ |
+| 15.7 | [Delve, Briefly](15-tooling/07-delve.md) | ✅ |
+| 15.8 | [go generate and Workspaces](15-tooling/08-generate-workspaces.md) | ✅ |
 
 ## Module 16 — HTTP Services
 
 | # | Lesson | Done |
 |---|--------|------|
-| 16.1 | [Your First net/http Server](16-http/01-first-server.md) | |
-| 16.2 | [ServeMux Routing: Methods and Wildcards](16-http/02-servemux-routing.md) | |
-| 16.3 | [Handlers, HandlerFunc, and the Interface](16-http/03-handlers.md) | |
-| 16.4 | [Request Parsing: Path, Query, Headers, Body](16-http/04-request-parsing.md) | |
-| 16.5 | [JSON Requests and Responses](16-http/05-json-api.md) | |
-| 16.6 | [Middleware from Scratch](16-http/06-middleware.md) | |
-| 16.7 | [chi: Routing, Groups, and Middleware](16-http/07-chi.md) | |
-| 16.8 | [Request Validation](16-http/08-validation.md) | |
-| 16.9 | [HTTP Errors and Problem Responses](16-http/09-error-responses.md) | |
-| 16.10 | [The net/http Client](16-http/10-http-client.md) | |
-| 16.11 | [Testing Handlers with httptest](16-http/11-httptest.md) | |
-| 16.12 | [Context Propagation Through Handlers](16-http/12-context-propagation.md) | |
+| 16.1 | [Your First net/http Server](16-http/01-first-server.md) | ✅ |
+| 16.2 | [ServeMux Routing: Methods and Wildcards](16-http/02-servemux-routing.md) | ✅ |
+| 16.3 | [Handlers, HandlerFunc, and the Interface](16-http/03-handlers.md) | ✅ |
+| 16.4 | [Request Parsing: Path, Query, Headers, Body](16-http/04-request-parsing.md) | ✅ |
+| 16.5 | [JSON Requests and Responses](16-http/05-json-api.md) | ✅ |
+| 16.6 | [Middleware from Scratch](16-http/06-middleware.md) | ✅ |
+| 16.7 | [chi: Routing, Groups, and Middleware](16-http/07-chi.md) | ✅ |
+| 16.8 | [Request Validation](16-http/08-validation.md) | ✅ |
+| 16.9 | [HTTP Errors and Problem Responses](16-http/09-error-responses.md) | ✅ |
+| 16.10 | [The net/http Client](16-http/10-http-client.md) | ✅ |
+| 16.11 | [Testing Handlers with httptest](16-http/11-httptest.md) | ✅ |
+| 16.12 | [Context Propagation Through Handlers](16-http/12-context-propagation.md) | ✅ |
 
 ## Module 17 — Databases
 
 | # | Lesson | Done |
 |---|--------|------|
-| 17.1 | [database/sql and the Driver Model](17-database/01-database-sql.md) | |
-| 17.2 | [pgx: Connecting to Postgres](17-database/02-pgx.md) | |
-| 17.3 | [Queries, Scanning, and NULL Handling](17-database/03-queries-scanning.md) | |
-| 17.4 | [Transactions](17-database/04-transactions.md) | |
-| 17.5 | [Connection Pooling and Tuning](17-database/05-pooling.md) | |
-| 17.6 | [Migrations with golang-migrate](17-database/06-migrations.md) | |
-| 17.7 | [The Repository Layer](17-database/07-repository.md) | |
-| 17.8 | [Testing Against a Real Database](17-database/08-testing-db.md) | |
+| 17.1 | [database/sql and the Driver Model](17-database/01-database-sql.md) | ✅ |
+| 17.2 | [pgx: Connecting to Postgres](17-database/02-pgx.md) | ✅ |
+| 17.3 | [Queries, Scanning, and NULL Handling](17-database/03-queries-scanning.md) | ✅ |
+| 17.4 | [Transactions](17-database/04-transactions.md) | ✅ |
+| 17.5 | [Connection Pooling and Tuning](17-database/05-pooling.md) | ✅ |
+| 17.6 | [Migrations with golang-migrate](17-database/06-migrations.md) | ✅ |
+| 17.7 | [The Repository Layer](17-database/07-repository.md) | ✅ |
+| 17.8 | [Testing Against a Real Database](17-database/08-testing-db.md) | ✅ |
 
 ## Module 18 — Production Go
 
 | # | Lesson | Done |
 |---|--------|------|
-| 18.1 | [Project Layout: cmd/ and internal/](18-production/01-project-layout.md) | |
-| 18.2 | [Configuration via Environment](18-production/02-config.md) | |
-| 18.3 | [Authentication with JWT](18-production/03-auth-jwt.md) | |
-| 18.4 | [Structured Logging in a Service](18-production/04-service-logging.md) | |
-| 18.5 | [Graceful Shutdown](18-production/05-graceful-shutdown.md) | |
-| 18.6 | [Health Checks and Readiness](18-production/06-health-checks.md) | |
-| 18.7 | [Metrics with Prometheus](18-production/07-prometheus.md) | |
-| 18.8 | [Docker Multi-Stage Builds](18-production/08-docker.md) | |
-| 18.9 | [CI with GitHub Actions](18-production/09-ci.md) | |
-| 18.10 | [The Essential Package Directory](18-production/10-package-directory.md) | |
+| 18.1 | [Project Layout: cmd/ and internal/](18-production/01-project-layout.md) | ✅ |
+| 18.2 | [Configuration via Environment](18-production/02-config.md) | ✅ |
+| 18.3 | [Authentication with JWT](18-production/03-auth-jwt.md) | ✅ |
+| 18.4 | [Structured Logging in a Service](18-production/04-service-logging.md) | ✅ |
+| 18.5 | [Graceful Shutdown](18-production/05-graceful-shutdown.md) | ✅ |
+| 18.6 | [Health Checks and Readiness](18-production/06-health-checks.md) | ✅ |
+| 18.7 | [Metrics with Prometheus](18-production/07-prometheus.md) | ✅ |
+| 18.8 | [Docker Multi-Stage Builds](18-production/08-docker.md) | ✅ |
+| 18.9 | [CI with GitHub Actions](18-production/09-ci.md) | ✅ |
+| 18.10 | [The Essential Package Directory](18-production/10-package-directory.md) | ✅ |
 
 ---
 
